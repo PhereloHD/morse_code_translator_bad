@@ -37,6 +37,6 @@ if (userInput.at(i) == text[counter]){
 
     return 0;
 }
-
+//this is bad
 
 
